@@ -1,0 +1,44 @@
+.calc {
+  margin: 5% auto;
+  width: 50%;
+  height: 500px;
+  border: 1px solid black;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  margin: 2% auto;
+}
+
+#result {
+  display: inline-block;
+  width: 75%;
+}
+
+.clear {
+  display: inline-block;
+  width: 20%;
+}
+
+.operators {
+  font-size: 24px;
+  text-align: center;
+}
+
+td:hover {
+  cursor: pointer;
+  color: white;
+  background-color: grey;
+  /*font-size: 18px;*/
+}
+
+table {
+  height: 89%;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.table {
+  margin-bottom: 0;
+}
